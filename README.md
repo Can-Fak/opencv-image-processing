@@ -1,9 +1,13 @@
 
-# STNM - Image Processing
+# Image Processing with Python and OpenCV
 
 ## Overview
 
-This repository contains image processing studies developed as part of STNM activities, focusing on color detection using Python and OpenCV, as well as research on Canny edge detection.
+## Overview
+
+This repository contains practical image processing studies using Python and OpenCV, focusing on HSV-based color detection, image masking, and research on Canny edge detection.
+
+These studies were carried out as part of STNM student community activities at Fırat University.
 
 ## Technologies
 
